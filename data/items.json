@@ -45,8 +45,12 @@
         },
         {
           "id": "IMG_0862",
-          "status": "available",
+          "status": "sold",
           "title": "Machine à café Delizio compatible Nespresso"
+        },
+        {
+          "id": "IMG_0919",
+          "status": "available"
         }
       ]
     },
@@ -84,7 +88,7 @@
         },
         {
           "id": "IMG_0581",
-          "status": "sold"
+          "status": "available"
         },
         {
           "id": "IMG_0582",
@@ -92,7 +96,7 @@
         },
         {
           "id": "IMG_0583",
-          "status": "sold"
+          "status": "available"
         },
         {
           "id": "IMG_0585",
@@ -173,6 +177,18 @@
         {
           "id": "image2",
           "status": "available"
+        },
+        {
+          "id": "IMG_0909",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0910",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0912",
+          "status": "available"
         }
       ]
     },
@@ -208,6 +224,34 @@
         },
         {
           "id": "IMG_0860",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0908",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0911",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0913",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0914",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0915",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0916",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0917",
           "status": "available"
         }
       ]
@@ -294,6 +338,28 @@
         },
         {
           "id": "IMG_0584",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0918",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "label": "Sport",
+      "items": [
+        {
+          "id": "IMG_0879",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0881",
+          "status": "available"
+        },
+        {
+          "id": "IMG_0882",
           "status": "available"
         }
       ]
