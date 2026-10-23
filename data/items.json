@@ -352,11 +352,13 @@
       "items": [
         {
           "id": "IMG_0879",
-          "status": "available"
+          "status": "available",
+          "title": "Taille 25.5"
         },
         {
           "id": "IMG_0881",
-          "status": "available"
+          "status": "available",
+          "title": "Taille 25.5"
         },
         {
           "id": "IMG_0882",
